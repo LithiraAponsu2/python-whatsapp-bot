@@ -1,3 +1,5 @@
+# to MySQL server
+
 import csv
 import mysql.connector
 
