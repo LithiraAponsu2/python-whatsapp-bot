@@ -1,0 +1,21 @@
+Name,Details,Price,Available,Quantity,Rating,Category,Supplier
+Product 1,Details of Product,1,10.99,20,4.5,Electronics,Supplier A
+Product 2,Details of Product,2,12.5,15,4.0,Home & Kitchen,Supplier B
+Product 3,Details of Product,3,9.99,10,4.3,Electronics,Supplier C
+Product 4,Details of Product,4,15.0,5,4.7,Beauty,Supplier D
+Product 5,Details of Product,5,7.5,25,3.8,Toys,Supplier E
+Product 6,Details of Product,6,8.99,30,4.2,Books,Supplier F
+Product 7,Details of Product,7,19.99,8,4.9,Gardening,Supplier G
+Product 8,Details of Product,8,25.0,6,3.5,Electronics,Supplier H
+Product 9,Details of Product,9,5.99,12,4.0,Beauty,Supplier I
+Product 10,Details of Product,10,14.99,18,4.4,Toys,Supplier J
+Product 11,Details of Product,11,11.99,20,4.6,Books,Supplier K
+Product 12,Details of Product,12,13.5,15,4.1,Gardening,Supplier L
+Product 13,Details of Product,13,9.49,10,3.9,Electronics,Supplier M
+Product 14,Details of Product,14,16.0,5,4.8,Beauty,Supplier N
+Product 15,Details of Product,15,6.5,25,4.2,Toys,Supplier O
+Product 16,Details of Product,16,9.89,30,3.7,Books,Supplier P
+Product 17,Details of Product,17,18.99,8,4.3,Gardening,Supplier Q
+Product 18,Details of Product,18,24.0,6,4.5,Electronics,Supplier R
+Product 19,Details of Product,19,4.99,12,3.6,Beauty,Supplier S
+Product 20,Details of Product,20,13.99,18,4.1,Toys,Supplier T
